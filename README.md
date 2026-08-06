@@ -6,7 +6,10 @@ This is a data pipeline created through organizing and sectioning restaurant sal
 ---
 
 ## Data Pipeline
-
+- Raw csv data imported into a new SQL database
+- SQL utilized to organize and select desired data
+  - Unique SQL views created for each visual display containing table with relevant data only
+- Views imported into Power BI to format graphs and illustrations creating an in-depth display
 
 ---
 
