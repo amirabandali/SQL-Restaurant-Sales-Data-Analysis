@@ -13,7 +13,10 @@ This is a data pipeline created through organizing and sectioning restaurant sal
 
 ---
 
-# Power BI Dashboard Image
+## SQL Code
+This is the SQL code to organize the raw data into separate views with relevant tables: 
+
+## Power BI Dashboard Image
 <img width="1298" height="740" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/d83e8e93-ac08-461a-a985-65c7df208a63" />
 
 
