@@ -1,7 +1,7 @@
 # Restaurant-Sales-Data-Analysis
 
 ## Overview
-This is a data pipeline created through organizing and sectioning restaurant sales data in SQL to be displayed in various graphs with Power BI.
+This project is a data pipeline created through organizing and sectioning restaurant sales data in SQL to create relevant table displays for managers. The data was then imported into Power BI to formulate various graphs and illustrations that make up an analytical dashboard of the original data.
 
 ---
 
