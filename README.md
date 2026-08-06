@@ -14,7 +14,7 @@ This is a data pipeline created through organizing and sectioning restaurant sal
 ---
 
 ## SQL Code
-This is the SQL code to organize the raw data into separate views with relevant tables: 
+This is the SQL code to organize the raw data into separate views with relevant tables:  
 [View Restaurant_Sales_Project_SQL](Restaurant_Sales_Project_SQL.sql)
 
 ## Power BI Dashboard Image
