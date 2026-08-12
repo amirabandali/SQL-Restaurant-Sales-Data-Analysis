@@ -3,7 +3,7 @@ CREATE DATABASE restaurant_sales_db;
 /* Create pi graph of items that make up sales
 Create line graph of total revenue over the months
 Create bar graph of item and revenue it has made
-Find most popular item and month with most sales
+Find most popular item and the amount of sales
 Calculate total revenue and most popular payment method */
 
 /* Product Sales PI Graph */
